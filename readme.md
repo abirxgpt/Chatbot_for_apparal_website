@@ -103,7 +103,9 @@ Visit → **[http://127.0.0.1:5000](http://127.0.0.1:5000/)**
 
 ## 🖥️ Demo Screenshot
 
-> 
+> <img width="1811" height="400" alt="image" src="https://github.com/user-attachments/assets/0b6a742b-36f2-4fae-88d9-c99678026792" />
+> <img width="1811" alt="image" src="https://github.com/user-attachments/assets/aa3394fc-2f61-45d5-8184-4c32757ad826" />
+
 
 * * *
 
